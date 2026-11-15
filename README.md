@@ -1,6 +1,6 @@
 # Programming in Java (CSA09) — Assignments CO1 to CO5
 
-**Student Name:** Moksha Dude (`dudemoksha`)  
+**Student Name:** N.Moksha Sai  
 **Register Number:** 192372374  
 **Course Code:** CSA09  
 **Course Name:** Programming in Java  
